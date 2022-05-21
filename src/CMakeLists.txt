@@ -1,5 +1,6 @@
 add_executable(GroupGen
     main.cpp
+    ui/ui.qrc
 )
 
 target_link_libraries(GroupGen PUBLIC
